@@ -1,0 +1,39 @@
+body{
+    background:#eef2f7;
+    font-family:'Segoe UI',sans-serif;
+}
+
+.navbar{
+    border-radius:0 0 12px 12px;
+}
+
+.card{
+    border:none;
+    border-radius:15px;
+}
+
+.card-header{
+    border-radius:15px 15px 0 0 !important;
+}
+
+.table{
+    border-radius:10px;
+    overflow:hidden;
+}
+
+.btn{
+    border-radius:10px;
+}
+
+.form-control{
+    border-radius:10px;
+}
+
+.badge{
+    font-size:14px;
+    padding:8px 12px;
+}
+
+h2{
+    font-weight:bold;
+}
